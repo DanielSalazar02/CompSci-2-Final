@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(22,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,28): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,28): warning C4305:         with
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,28): warning C4305:         [
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,28): warning C4305:             T=float
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,28): warning C4305:         ]
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,22): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,22): warning C4305:         with
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,22): warning C4305:         [
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,22): warning C4305:             T=float
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(43,22): warning C4305:         ]
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,28): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,28): warning C4305:         with
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,28): warning C4305:         [
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,28): warning C4305:             T=float
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,28): warning C4305:         ]
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,22): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,22): warning C4305:         with
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,22): warning C4305:         [
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,22): warning C4305:             T=float
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(48,22): warning C4305:         ]
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(67,57): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\salaz\source\repos\CompSci Final\CompSci Final\Main.cpp(67,43): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  CompSci Final.vcxproj -> C:\Users\salaz\source\repos\CompSci Final\Debug\CompSci Final.exe
